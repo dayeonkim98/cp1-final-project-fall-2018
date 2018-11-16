@@ -1,8 +1,8 @@
 NB: You might find useful the [sample proposal for a software/hardware project](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
-# Your Project Title Here
+# 2048 GAME
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+I am going to recreate the game "2048".
 
 ## Summary
 
@@ -25,10 +25,10 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 What did you do in each of the past five weeks?
 
 - Week 1: Write proposal
-- Week 2: 
+- Week 2: Find code and experiment
 - Week 3:
-- Week 4:
-- Week 5: Present!
+- Week 4: Present!
+- Week 5: Will be gone
 
 ## Completed Work
 
@@ -36,4 +36,8 @@ Photos and videos of your completed final project!
 
 ## References and links
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+https://editor.p5js.org/iscjavier/sketches/B1pdNMzdz
+https://www.youtube.com/watch?v=JSn-DJU8qf0
+https://www.youtube.com/watch?v=8f8P1i0W26E
+https://www.youtube.com/watch?v=3iYvT8TBIro
+https://www.youtube.com/watch?v=vtMKeEGpMI4
