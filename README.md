@@ -6,19 +6,17 @@ I am going to recreate the game "2048".
 
 ## Summary
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. 
-
-Include a discussion how it will be interactive or responsive to the environment.
+It was challenging to start with because I didn't really have an idea of what to do first.
+But as I follow the tutorial, I think I did pretty well!
 
 ## Component Parts
 
-From what pieces did you build your project?
-
-Include what types of inputs/outputs/data it will use, and a diagram showing how all those pieces are connected.
+I followed the tutorial on youtube down below.
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+Everything was challenging!!
+Especially creating the loops and arrays and also doing the key functions.
 
 ## Timeline
 
@@ -26,7 +24,7 @@ What did you do in each of the past five weeks?
 
 - Week 1: Write proposal
 - Week 2: Find code and experiment
-- Week 3:
+- Week 3: Work on the file
 - Week 4: Present!
 - Week 5: Will be gone
 
